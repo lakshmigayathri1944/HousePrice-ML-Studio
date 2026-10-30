@@ -1,0 +1,6 @@
+{
+  "name": "HousePrice ML Studio",
+  "description": "End-to-end Machine Learning regression platform for residential real estate valuation featuring Linear Regression, Decision Tree, and Random Forest models with EDA and feature importance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
